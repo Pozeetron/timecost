@@ -69,5 +69,5 @@ time cost, hourly rate calculator, purchase cost, work hours, spending, salary c
 Likely Everyone / PEGI 3 — no user-generated content, no ads in current build.
 
 ## Contact (placeholders — replace before publish)
-- Support email: support@evol.apps  
-- Privacy email: privacy@evol.apps  
+- Support email: elewiszokiufa@gmail.com  
+- Privacy email: elewiszokiufa@gmail.com  
